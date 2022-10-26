@@ -103,3 +103,4 @@ tests/windows
 
 # build files
 out/
+/install
